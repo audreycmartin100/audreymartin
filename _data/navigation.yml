@@ -6,9 +6,7 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "People"
-    url: /people/
-  - title: "Teaching"
-    url: /teaching/
   - title: "CV"
     url: /CV/
+  - title: "Walkabout the Galaxy"
+    url: /Walkabout the Galaxy/
