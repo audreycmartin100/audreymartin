@@ -10,7 +10,8 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  #caption: "Park reserve in Pensacola, 2/2/2025"  
+  caption: "Park reserve in Pensacola, 2/2/2025"  
+  font-size: "type-size-9"
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
