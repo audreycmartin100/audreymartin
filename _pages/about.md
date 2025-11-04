@@ -14,6 +14,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
   caption: "Comet Neowise, Flagstaff AZ"
+  font: "Helvetica"
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” To unravel the complexity of Solar System formation, Martin uses spectroscopy to determine the composition and physical properties of rocky objects like asteroids and the Moon. She employs a variety of techniques to make connections to the broader Solar System context, including spectroscopy of asteroids, and laboratory analogs of airless bodies using minerals and meteorites.
 ---
 
