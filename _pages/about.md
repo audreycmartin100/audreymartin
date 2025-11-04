@@ -23,7 +23,7 @@ excerpt: As a planetary scientist, Audrey Martin seeks to answer the question â€
 
 
 <figure class="third">
-    <img src="{{ site.baseurl }}/assets/images/Rover.png" alt="Waterfall" class="test-class">
+    <img src="{{ site.baseurl }}/assets/images/Rover.png" alt="Rover" class="test-class">
     <img src="{{ site.baseurl }}/assets/images/mudstone.png" alt="Mudstone" class="test-class">
     <img src="{{ site.baseurl }}/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
     <figcaption>
