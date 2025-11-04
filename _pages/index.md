@@ -5,12 +5,12 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.2"
-  overlay_image: assets/images/MilkyWay.png
+  overlay_filter: "0.5"
+  overlay_image: assets/images/MilkyWay.jpg
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Park reserve in Pensacola, 2/2/2025"  
+  #caption: "Park reserve in Pensacola, 2/2/2025"  
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
