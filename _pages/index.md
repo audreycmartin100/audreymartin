@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
   overlay_image: assets/images/MilkyWay.jpg
   # actions:
   #   - label: "About Me"
