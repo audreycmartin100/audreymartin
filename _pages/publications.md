@@ -14,6 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/basalt.png
   caption: "Exposed basalt, Grand Marais, MN"
+  font: "Helvetica" 
 #excerpt: 
 ---
 [Full citation list available on Google Scholar](https://scholar.google.com/){:target="_blank"}<br>
