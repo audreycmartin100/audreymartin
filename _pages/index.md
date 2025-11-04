@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.2"
-  overlay_image: assets/images/image.png
+  overlay_image: assets/images/MilkyWay.png
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
