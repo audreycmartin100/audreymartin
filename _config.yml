@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ACMartin [at] CalTech [dot] edu"
     - label: "Web of Science"
-      <i class="fa-solid fa-book"></i> #icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-link" #<i class="fa-solid fa-book"></i>
       url: "https://www.webofscience.com/wos/author/record/GRR-2521-2022"
     #- label: "Zenodo"
      # icon: "fab fa-fw fa-twitter-square"
