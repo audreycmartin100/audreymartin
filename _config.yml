@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Audrey C. Martin"
 description              : "Homepage"
-url                      : "https://audreymartin_Planetary.com"
+url                      : # "https://audreymartin_Planetary.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # audreycmartin100/audreymartin 
 teaser                   : #/assets/images/photo-1590379492966-e076d8f84c2d.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
