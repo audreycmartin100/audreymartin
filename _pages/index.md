@@ -11,7 +11,7 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "Park reserve in Pensacola, 2/2/2025"  
-excerpt: Passionate geoscientist dedicated to exploring Earth's dynamic landscapes and understanding how natural processes and human activities shape our planet. <br />
+excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
 author: First M. Last
@@ -23,7 +23,7 @@ feature_row:
     image_size: 100px
     alt: "About"
     title: "About"
-    excerpt: "As a Gopher Tortoise who has spent a lifetime burrowing in the sandy soils of the Southeast, I now find myself fascinated by the study of glacial landscapes—quite a journey from warm burrows to chilly terrains!"
+    excerpt: "exerpt text 1"
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
@@ -31,7 +31,7 @@ feature_row:
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "I study how rock fracturing is influenced by climate forcing and water erosion, using remote sensing, fieldwork, laboratory experiments, and computational modeling to understand landscape evolution."
+    excerpt: "excerpt research text"
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -39,7 +39,7 @@ feature_row:
     alt: "Teaching"
     image_size: 500px
     title: "Teaching and Mentoring"
-    excerpt: "Mentoring future geoscientists and students is central to my mission. I strive to foster curiosity, critical thinking, and inclusivity in every learning environment."
+    excerpt: "Mentoring excerpt"
     url: "/teaching/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"      
@@ -49,8 +49,8 @@ feature_row:
 
 Example for extra information that can be display on the landing page
 
-> **Now Recruiting:**  
-> I am seeking motivated PhD students and postdoctoral researchers interested in geomorphology, landscape evolution, and environmental change. If you are passionate about fieldwork, modeling, or remote sensing, please [contact me](mailto:your.email@domain.com) with your CV and research interests.
+> **Title 1:**  
+> ABC.
 
-> **Seeking Graduate Opportunities:**  
-> I am an upcoming graduate actively searching for PhD programs in geosciences. My interests include geomorphology, landscape evolution, and environmental change. If your group is recruiting or you know of relevant opportunities, please check out my [CV](/cv/)—I would love to connect!
+> **Title 2:**  
+> XYZ!
