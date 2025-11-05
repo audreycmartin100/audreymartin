@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: Audrey C. Martin
+author: First M. Last
 author_profile: true
 
 classes: wide
