@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Teaching and Mentoring"
-permalink: /teaching/
+title: "Walkabout the Galaxy"
+permalink: /Walkabout the Galaxy/
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
