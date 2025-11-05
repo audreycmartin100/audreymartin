@@ -3,8 +3,8 @@ title: "Curriculum Vitae"
 layout: single
 permalink: /CV/
 
- #Includes author profile in sidebar 5
-author: Audrey C. Martin
+# Includes author profile in sidebar
+author: First M. Last
 author_profile: true
 
 header:
