@@ -12,10 +12,6 @@ header:
 excerpt: Geoscientists study how rivers shape landscapes through erosion, sediment transport, and deposition. River erosion carves valleys, forms channels, and exposes bedrock, while processes like rock fracturing influence the development of landforms and the movement of water and sediments over time.
 permalink: /research/
 
-# Includes author profile in sidebar
-author: First M. Last
-author_profile: true
-
 feature_row:
 - image_path: /assets/images/pahoehoe.png
   title: "North Shore Lava Flow Formation"
