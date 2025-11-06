@@ -20,7 +20,7 @@ author_profile: true
 #  
 feature_row:
   - image_path: /assets/images/Head_shot.png
-    image_size: 100px
+    #image_size: 100px
     alt: "About"
     title: "About"
     excerpt: "exerpt text 1"
