@@ -14,8 +14,8 @@ header:
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
-author: First M. Last
-author_profile: true
+#author: First M. Last
+#author_profile: true
 
 #  
 feature_row:
@@ -37,7 +37,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/Rover.jpg
     alt: "Teaching"
-    image_size: 500px
+    #image_size: 500px
     title: "Teaching and Mentoring"
     excerpt: "Mentoring excerpt"
     url: "/teaching/"
