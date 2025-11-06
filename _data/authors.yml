@@ -5,7 +5,7 @@ First M. Last:
   avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Divison of Geological and Planetary Sciences, California Institute of Technology<br/>"
   location         : Pasadena, CA
-  #email            : ACMartin [at] CalTech [dot] edu
+  email            : ACMartin [at] CalTech [dot] edu
   links:
     - label: "University website"
       icon: "fas fa-solid fa-link"
@@ -16,6 +16,6 @@ First M. Last:
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google"
       url: "https://scholar.google.com/citations?user=bqLIDTIAAAAJ&hl=en&oi=sra"
-    - label: "Email"
-      icon: "fa-regular fa-envelope"
-      url: "ACMartin [at] CalTech [dot] edu"
+   # - label: "Email"
+   #   icon: "fa-regular fa-envelope"
+   #   url: "ACMartin [at] CalTech [dot] edu"
