@@ -19,7 +19,7 @@ author_profile: true
 
 #  
 feature_row:
-  - image_path: /assets/images/about.png
+  - image_path: /assets/images/MeJWST.jpg
     image_size: 100px
     alt: "About"
     title: "About"
@@ -27,7 +27,7 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/research.png
+  - image_path: /assets/images/CameronPic.jpg
     alt: "Research"
     image_size: 20px
     title: "Research"
@@ -35,7 +35,7 @@ feature_row:
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/teaching.png
+  - image_path: /assets/images/Rover.jpg
     alt: "Teaching"
     image_size: 500px
     title: "Teaching and Mentoring"
