@@ -2,7 +2,7 @@
 
 First M. Last:
   name             : "Audrey C. Martin"
-  avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
+  avatar           : "/assets/images/Head_shot.png" # path of avatar image, e.g. "/assets/images/Head_shot.png"
   bio              : "<br/>Divison of Geological and Planetary Sciences, California Institute of Technology<br/>"
   location         : Pasadena, CA
   email            : ACMartin [at] CalTech [dot] edu
