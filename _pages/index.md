@@ -26,9 +26,9 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/Rover.jpg
+  - image_path: /assets/images/CameronPic.jpg
     alt: "Research"
-    image_size: 20px
+    image_size: 100px
     title: "Research"
     url: "/research/"
     btn_label: "Learn More"
@@ -44,7 +44,8 @@ feature_row:
 
 {%include feature_row%}
 
-**Contact Me**
+**Contact Me** 
+
 *Email Address* <br />
 ACMartin [at] CalTech [dot] edu
 
