@@ -20,7 +20,7 @@ excerpt: Planetary Scientist. <br />
 #  
 feature_row:
   - image_path: /assets/images/Head_shot.png
-    #image_size: 100px
+    #image_size: 50px
     alt: "About"
     title: "About"
     excerpt: "exerpt text 1"
@@ -31,7 +31,6 @@ feature_row:
     alt: "Research"
     image_size: 20px
     title: "Research"
-"
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
