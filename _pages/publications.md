@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.05"
   overlay_image: /assets/images/Flagstaff2.jpg
-  caption: "Flagstaff, AZfwdfa"
+  caption: "Flagstaff, AZfwdfaewdfwefwef"
   font: "Helvetica" 
 #excerpt: 
 ---
@@ -22,7 +22,10 @@ header:
 | Peer Reviewed                                                                                                                                                                                                                                                                                                                                                   | 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | <i><u>Underline</u> Denotes Undergraduate Mentee</i>                                                                                                                                                                                                                                                                                                                                  |
-| [13] Mid-Infrared 	Reflectance and Emissivity Spectra of High Porosity Regoliths.<br> <p>&nbsp;&nbsp;**Martin, A. C.**, Emery, J. P., Loeffler, M., Donaldson Hanna, K. L. (2025).<i> Journal of Geophysical Research, 130, 5.</p><br>   [https://doi.org/10.1029/2024JE008331](https://doi.org/10.1029/2024JE008331){:target="_blank"}</li> |
+| [13] Mid-Infrared 	Reflectance and Emissivity Spectra of High Porosity Regoliths.<br> &nbsp;&nbsp;**Martin, A. C.**, Emery, J. P., Loeffler, M., Donaldson Hanna, K. L. (2025).<i> Journal of Geophysical Research, 130, 5.<br>&nbsp;&nbsp;[https://doi.org/10.1029/2024JE008331](https://doi.org/10.1029/2024JE008331){:target="_blank"} |
+| [12] Measuring the effects of regolith porosity on mid-IR spectra of the Allende meteorite.<br> <u>Dausend, L.</u>, **Martin, A. C.**, Emery, J. P., (2025). <i>The Planetary Science Journal, 6, 54.</i><br> [https://doi.org/10.3847/PSJ/ada778](https://doi.org/10.3847/PSJ/ada778){:target="_blank"}|                                 
+| [11] Mid-Infrared 	Reflectance and Emissivity Spectra of High Porosity Regoliths.<br> Noe Dobrea, E. Z., Banks, M. E., Clark, R. N., Wettergreen, D., Hendrix, A., Ahrens, C., Bell, E., Breitfeld, A., Bristow, T. F., Buxner, S., Candela, A., Hansen, M., Holsclaw, G., Knightly, P., Kramer, G., Kumari, N., Lane, M. D., **Martin, A. C.**, Meier, M., Patterson, R., Pearson, N., Prettyman, T., Swayze , G., Vaniman, D., Vijayarangan, S., Valis, F., Wright, S. P., (2024). <i>The Planetary Science Journal, 6, 51.</i><br>
+[https://doi.org/10.3847/PSJ/adaa78](https://doi.org/10.3847/PSJ/adaa78){:target="_blank"}|
 | [12] Measuring the effects of regolith porosity on mid-IR spectra of the Allende meteorite.<br> <u>Dausend, L.</u>, **Martin, A. C.**, Emery, J. P., (2025). <i>The Planetary Science Journal, 6, 54.</i><br> [https://doi.org/10.3847/PSJ/ada778](https://doi.org/10.3847/PSJ/ada778){:target="_blank"}                                                                                      |
 
 
