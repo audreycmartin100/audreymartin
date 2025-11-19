@@ -9,8 +9,8 @@ author_profile: true
 
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/field2.png
+  overlay_filter: "0.1"
+  overlay_image: /assets/images/IcelandBasalt.jpeg
   caption: 
 ---
  
