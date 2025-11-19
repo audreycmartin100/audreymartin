@@ -10,7 +10,7 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "The Milky Way from the North Rim of the Grand Canyon" <small>
+  caption: "The Milky Way from the North Rim of the Grand Canyon"
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
