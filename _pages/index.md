@@ -10,7 +10,7 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "The Milky Way from the North Rim of the Grand Canyon"  
+  caption: "The Milky Way from the North Rim of the Grand Canyon" <small>
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
@@ -23,7 +23,6 @@ feature_row:
     #image_size: 150px
     alt: "About"
     title: "About"
-    excerpt: "exerpt text 1"
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
@@ -32,7 +31,7 @@ feature_row:
     image_size: 20px
     title: "Research"
     url: "/research/"
-    btn_label: "Read More"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Rover.jpg
     alt: "Outreach"
