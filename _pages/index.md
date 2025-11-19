@@ -10,7 +10,7 @@ header:
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "Park reserve in Pensacola, 2/2/2025"  
+  caption: "The Milky Way from the North Rim of the Grand Canyon"  
 excerpt: Planetary Scientist. <br />
 
 # Includes author profile in sidebar
@@ -47,10 +47,18 @@ feature_row:
 
 {%include feature_row%}
 
-Example for extra information that can be display on the landing page
+**Contact Me**
+*Email Address*
+ACMartin [at] CalTech [dot] edu
 
-> **Title 1:**  
-> ABC.
+*Mailing Address*
+1200 E California Blvd
+California Institute of Technology
+M/C 150-21
+Pasadena, CA 91125
 
-> **Title 2:**  
-> XYZ!
+#> **Title 1:**  
+#> ABC.
+
+#> **Title 2:**  
+#> XYZ!
