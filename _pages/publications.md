@@ -12,9 +12,10 @@ classes: wide
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/basalt.png
-  caption: "Exposed basalt, Grand Marais, MN"
+  overlay_image: /assets/images/Flagstaff2.jpg
+  caption: "Flagstaff, AZ"
   font: "Helvetica" 
+  font-size:"0.4em"
 #excerpt: 
 ---
 [Full citation list available on Google Scholar](https://scholar.google.com/){:target="_blank"}<br>
