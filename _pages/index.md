@@ -20,7 +20,7 @@ excerpt: Planetary Scientist. <br />
 #  
 feature_row:
   - image_path: /assets/images/Head_shot.png
-    #image_size: 50px
+    #image_size: 150px
     alt: "About"
     title: "About"
     excerpt: "exerpt text 1"
@@ -46,17 +46,11 @@ feature_row:
 {%include feature_row%}
 
 **Contact Me**
-> *Email Address*
-> ACMartin [at] CalTech [dot] edu
+*Email Address* <br />
+ACMartin [at] CalTech [dot] edu
 
 *Mailing Address* <br />
-1200 E California Blvd
-California Institute of Technology
-M/C 150-21
-Pasadena, CA 91125
-
-#> **Title 1:**  
-#> ABC.
-
-#> **Title 2:**  
-#> XYZ!
+1200 E California Blvd <br />
+California Institute of Technology <br />
+M/C 150-21 <br />
+Pasadena, CA 91125 <br />
