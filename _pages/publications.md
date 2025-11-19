@@ -15,7 +15,6 @@ header:
   overlay_image: /assets/images/Flagstaff2.jpg
   caption: "Flagstaff, AZ"
   font: "Helvetica" 
-  font-size:"0.4em"
 #excerpt: 
 ---
 [Full citation list available on Google Scholar](https://scholar.google.com/){:target="_blank"}<br>
