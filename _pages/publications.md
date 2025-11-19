@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.05"
   overlay_image: /assets/images/Flagstaff2.jpg
-  caption: "Flagstaff, AZz22"
+  caption: "Flagstaff, AZz22333"
   font: "Helvetica" 
 #excerpt: 
 ---
@@ -22,15 +22,9 @@ header:
 | Peer Reviewed                                                                                                                                                                                                                                                                                                                                                   | 
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
 | <i><u>Underline</u> Denotes Undergraduate Mentee</i>                                                                                                                                                                                                                                                                                                                                  |
-| [13] Mid-Infrared 	Reflectance and Emissivity Spectra of High Porosity Regoliths. 
-**Martin, A. C.**, Emery, J. P., Loeffler, M., Donaldson Hanna, K. L. (2025).<i> Journal of Geophysical Research, 130, 5.</i> [https://doi.org/10.1029/2024JE008331](https://doi.org/10.1029/2024JE008331){:target="_blank"} 
-                                                                                                                                                                        |
-| [12] Measuring the effects of regolith porosity on mid-IR spectra of the Allende meteorite.
-<u>Dausend, L.</u>, **Martin, A. C.**, Emery, J. P., (2025). <i>The Planetary Science Journal, 6, 54.</i>
-[https://doi.org/10.3847/PSJ/ada778](https://doi.org/10.3847/PSJ/ada778){:target="_blank"}                                                                                                                                                                                                                             |
-| [11] Rover Science Autonomy in Planetary Exploration: Field Analog Tests.
-Noe Dobrea, E. Z., Banks, M. E., Clark, R. N., Wettergreen, D., Hendrix, A., Ahrens, C., Bell, E., Breitfeld, A., Bristow, T. F., Buxner, S., Candela, A., Hansen, M., Holsclaw, 	G., Knightly, P., Kramer, G., Kumari, N., Lane, M. D., **Martin, A. C.**, Meier, M., 	Patterson, R., Pearson, N., Prettyman, T., Swayze , G., Vaniman, D., Vijayarangan, 	S., Valis, F., Wright, S. P., (2024). <i>The Planetary Science Journal, 6, 51.</i>
-[https://doi.org/10.3847/PSJ/adaa78](https://doi.org/10.3847/PSJ/adaa78){:target="_blank"}                                                                                       |
+| [7] **Meltwater, mud, and the Mississippi: Upper Mississippi River Valley slackwater sediments reveal shifting deglacial meltwater sources associated with the Marquette Readvance of the Laurentide Ice Sheet**; <i>**Penprase, S.B.**</i>, *Wilwerding, A.C., McKenzie, M., Wickert, A.D., Larson, P.H., and Rittenour, T.M.; <i>Climate of the Past (in review).</i> |
+| [6] **Holocene History of Glaciar Upsala**; Romero, M., Van Wyk de Vries, M., Fedotova, A., Ito, E., Shapley, M., Magnani, M.B., Wickert, A.D, Jones, A.G, Marcott, S., Strelin, J., Brignone, G., <i>**Penprase, S.B.**</i>, and Caffee, M.W.; <i>The Cryosphere (in review).</i>                                                                                      |
+
 
 | In Review & Submitted                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|                                                                                                                                                                                                                                                                                                                                  |
