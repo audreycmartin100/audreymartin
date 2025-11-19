@@ -27,19 +27,18 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/CameronPic.jpg
+  - image_path: /assets/images/Rover.jpg
     alt: "Research"
     image_size: 20px
     title: "Research"
-    excerpt: "excerpt research text"
+"
     url: "/research/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Rover.jpg
-    alt: "Teaching"
+    alt: "Outreach"
     #image_size: 500px
-    title: "Teaching and Mentoring"
-    excerpt: "Mentoring excerpt"
+    title: "Outreach"
     url: "/teaching/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"      
@@ -48,10 +47,10 @@ feature_row:
 {%include feature_row%}
 
 **Contact Me**
-*Email Address*
-ACMartin [at] CalTech [dot] edu
+> *Email Address*
+> ACMartin [at] CalTech [dot] edu
 
-*Mailing Address*
+*Mailing Address* <br />
 1200 E California Blvd
 California Institute of Technology
 M/C 150-21
