@@ -11,7 +11,7 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   # caption: "The Milky Way from the North Rim of the Grand Canyon"
-excerpt: <br />Planetary Scientist. <br /><br /> 
+excerpt: <br />  Planetary Scientist. <br /><br /> 
 
 # Includes author profile in sidebar
 #author: First M. Last
@@ -45,10 +45,8 @@ feature_row:
 {%include feature_row%}
 
 <big>**Contact Me**</big><br>
-**Email Address** <br />
-<small>ACMartin [at] CalTech [dot] edu</small><br>
-**Mailing Address** <br />
-<small>1200 E California Blvd <br /></small>
-<small>California Institute of Technology <br /></small>
-<small>M/C 150-21 <br /></small>
-<small>Pasadena, CA 91125 <br /></small>
+ACMartin [at] CalTech [dot] edu</small><br>
+1200 E California Blvd <br>
+California Institute of Technology <br />
+M/C 150-21 <br />
+Pasadena, CA 91125 <br />
