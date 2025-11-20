@@ -10,14 +10,14 @@ author_profile: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.01"
-  overlay_image: /assets/images/IcelandBeach.JPEG
+  overlay_image: /assets/images/IcelandGlacier.JPEG
   caption: 
 ---
  
 
 <!-- [View on Google Drive](https://drive.google.com/file/d/12u7S7dNbJqWXDM6mpxSu0rCmP5JtPsI6/view?usp=sharing) -->
 
-<iframe src="{{ '/assets/pdfs/Martin_CV_Full_Fall2025.pdf' | relative_url }}" width="50%" height="600px">
+<iframe src="{{ '/assets/pdfs/Martin_CV_Full_Fall2025.pdf' | relative_url }}" width="70%" height="600px">
   This browser does not support PDFs. Please download the PDF to view it: 
   <a href="{{ '/assets/pdfs/Martin_CV_Full_Fall2025.pdf' | relative_url }}">Download PDF</a>.
 </iframe>
