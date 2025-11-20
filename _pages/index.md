@@ -44,13 +44,11 @@ feature_row:
 
 {%include feature_row%}
 
-**Contact Me** 
-
-*Email Address* <br />
+**Contact Me**
+<small>**Email Address** <br />
 ACMartin [at] CalTech [dot] edu
-
-*Mailing Address* <br />
+**Mailing Address** <br />
 1200 E California Blvd <br />
 California Institute of Technology <br />
 M/C 150-21 <br />
-Pasadena, CA 91125 <br />
+Pasadena, CA 91125 <br /></small>
