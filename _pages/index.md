@@ -11,7 +11,7 @@ header:
   #   - label: "About Me"
   #     url: "/about/"
   caption: "The Milky Way from the North Rim of the Grand Canyon"
-excerpt: Planetary Scientist. <br />
+excerpt: Planetary Scientist. <br /><br /><br /> 
 
 # Includes author profile in sidebar
 #author: First M. Last
