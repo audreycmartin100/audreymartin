@@ -26,14 +26,14 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/CameronPic.jpg
+  - image_path: /assets/images/neowise 2.jpg
     alt: "Research"
     image_size: 100px
     title: "Research"
     url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/Rover.jpg
+  - image_path: /assets/images/Sedona2.jpg
     alt: "Outreach"
     #image_size: 500px
     title: "Outreach"
