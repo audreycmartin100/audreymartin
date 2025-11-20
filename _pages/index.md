@@ -5,13 +5,13 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.3"
+  overlay_filter: "0.05"
   overlay_image: assets/images/MilkyWay.jpg
   # actions:
   #   - label: "About Me"
   #     url: "/about/"
-  caption: "The Milky Way from the North Rim of the Grand Canyon"
-excerpt: Planetary Scientist. <br /><br /><br /> 
+  # caption: "The Milky Way from the North Rim of the Grand Canyon"
+excerpt: <br />Planetary Scientist. <br /><br /> 
 
 # Includes author profile in sidebar
 #author: First M. Last
