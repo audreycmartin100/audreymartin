@@ -44,10 +44,10 @@ feature_row:
 
 {%include feature_row%}
 
-**Contact Me**<br>
-<small>**Email Address** <br /></small>
-<small>ACMartin [at] CalTech [dot] edu</small>
-<small>**Mailing Address** <br /></small>
+<big>**Contact Me**</big><br>
+**Email Address** <br />
+<small>ACMartin [at] CalTech [dot] edu</small><br>
+**Mailing Address** <br />
 <small>1200 E California Blvd <br /></small>
 <small>California Institute of Technology <br /></small>
 <small>M/C 150-21 <br /></small>
