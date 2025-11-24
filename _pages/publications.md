@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.05"
   overlay_image: /assets/images/Flagstaff2.jpg
-  caption: "Flagstaff, AZ"
+  #caption: "Flagstaff, AZ"
   font: "Helvetica" 
 #excerpt: 
 ---
