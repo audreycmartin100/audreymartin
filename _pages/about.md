@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
   caption: "Comet Neowise jygkjy"
- font-size: 0.5em
+ #font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 ---
 
