@@ -25,11 +25,11 @@ In addition to research, Audrey Martin is an active science communicator. She ha
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/Rover.jpg" alt="Rover" class="test-class">
-    <img src="{{ site.baseurl }}/assets/images/mudstone.png" alt="Mudstone" class="test-class">
+    <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class">
     <img src="{{ site.baseurl }}/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
     <figcaption>
       <p class="text-center">
-        Left: Analog research with experimental rover in Yellowcat, UT; Middle: Mudstone sampling at State Park, USA; Right: River Gorge formed from LGM, augering river terraces in Southeastern Minnesota, USA
+        Left: Analog research with experimental rover in Yellowcat, UT; Middle: Canyon Diablo meteorite, Meteor Crater, AZ; Right: Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL.
       </p>
     </figcaption>
 </figure>
