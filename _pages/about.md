@@ -13,8 +13,8 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise"
-  # font-size: 1em
+  caption: "Comet Neowise jygkjy"
+ font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 ---
 
