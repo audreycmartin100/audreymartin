@@ -25,7 +25,7 @@ In addition to research, Audrey Martin is an active science communicator. She ha
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/Rover.jpg" alt="Rover" class="test-class">
-    <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class">
+    <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class" width="500" height="600">
     <img src="{{ site.baseurl }}/assets/images/NASALive.png" alt="NASA Live">
     <figcaption>
       <p class="text-center">
