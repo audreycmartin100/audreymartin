@@ -26,7 +26,7 @@ In addition to research, Audrey Martin is an active science communicator. She ha
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/Rover.jpg" alt="Rover" class="test-class">
     <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class">
-    <img src="{{ site.baseurl }}/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
+    <img src="{{ site.baseurl }}/assets/images/NASALive.png" alt="NASA Live">
     <figcaption>
       <p class="text-center">
         Left: Analog research with experimental rover in Yellowcat, UT; Middle: Canyon Diablo meteorite, Meteor Crater, AZ; Right: Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL.
