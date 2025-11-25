@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise, Flagstaff AZ"
+  caption: "Comet Neowise"
   # font-size: 1em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 ---
@@ -29,7 +29,7 @@ In addition to research, Audrey Martin is an active science communicator. She ha
     <img src="{{ site.baseurl }}/assets/images/rivergorge.png" alt="River Gorge formed from LGM">
     <figcaption>
       <p class="text-center">
-        Left: Conducting analog research with experimental rover in Yellowcat, UT; Middle: Mudstone sampling at State Park, USA; Right: River Gorge formed from LGM, augering river terraces in Southeastern Minnesota, USA
+        Left: Analog research with experimental rover in Yellowcat, UT; Middle: Mudstone sampling at State Park, USA; Right: River Gorge formed from LGM, augering river terraces in Southeastern Minnesota, USA
       </p>
     </figcaption>
 </figure>
