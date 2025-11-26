@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise jygkjy"
+  caption: "Comet Neowise jy"
  #font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 ---
@@ -25,7 +25,7 @@ In addition to research, Audrey Martin is an active science communicator. She ha
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/Rover.jpg" alt="Rover" class="test-class">
-    <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class" width="500" height="600">
+    <img src="{{ site.baseurl }}/assets/images/MeteorCrater.JPG" alt="Canyon Diablo" class="test-class" width="200" height="100">
     <img src="{{ site.baseurl }}/assets/images/NASALive.png" alt="NASA Live">
     <figcaption>
       <p class="text-center">
@@ -33,6 +33,14 @@ In addition to research, Audrey Martin is an active science communicator. She ha
       </p>
     </figcaption>
 </figure>
+
+feature_row:
+- image_path: /assets/images/Rover.jpg
+  excerpt: "Analog research with experimental rover in Yellowcat, UT"
+- image_path: /assets/images/MeteorCrater.JPG
+  excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ"
+- image_path: /assets/images/NASALive.png
+  excerpt: "Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL"
 
 
 
