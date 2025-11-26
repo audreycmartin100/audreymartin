@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise 456"
+  caption: "Comet Neowise sdf"
  #font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 
@@ -24,7 +24,7 @@ feature_row:
   excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ"
 - image_path: /assets/images/NASALive.png
   excerpt: "Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL"
-  image_size: 5000px
+  image_size: 10000px
 ---
 
 Audrey Martin is a research scientist at the California Institute of Technology. To unravel the complexity of Solar System formation, Martin uses spectroscopy to determine the composition and physical properties of rocky objects like asteroids and the Moon. She employs a variety of techniques to make connections to the broader Solar System context, including spectroscopy of asteroids, and laboratory analogs of airless bodies using minerals and meteorites.
