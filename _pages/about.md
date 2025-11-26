@@ -20,7 +20,7 @@ excerpt: As a planetary scientist, Audrey Martin seeks to answer the question â€
 feature_row:
 - image_path: /assets/images/Rover.jpg
   excerpt: "Analog research with experimental rover in Yellowcat, UT"
-- image_path: /assets/images/MeteorCrater.JPG
+- image_path: /assets/images/MeteorCrater2.JPG
   excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ"
   image_size: 1000px
 - image_path: /assets/images/NASALive.png
