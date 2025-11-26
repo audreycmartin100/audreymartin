@@ -13,14 +13,14 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise jhgkjghykyg"
+  caption: "Comet Neowise 76576"
  #font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 
 feature_row:
 - image_path: /assets/images/Rover.jpg
   excerpt: "Analog research with experimental rover in Yellowcat, UT"
-- image_path: /assets/images/MeteorCrater2.JPG
+- image_path: /assets/images/MeInLab.JPG
   excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ"
 - image_path: /assets/images/NASALive.png
   excerpt: "Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL"
