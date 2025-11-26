@@ -13,7 +13,7 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.4"
   overlay_image: /assets/images/neowise 2.jpg
-  caption: "Comet Neowise jy"
+  caption: "Comet Neowise jjyfgujygy"
  #font-size: 0.5em
 excerpt: As a planetary scientist, Audrey Martin seeks to answer the question “How did the Solar System form?” 
 ---
@@ -42,5 +42,6 @@ feature_row:
 - image_path: /assets/images/NASALive.png
   excerpt: "Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL"
 
-
+<p style="font-size: 1.5rem; font-weight: bold">Current Projects</p>
+{% include feature_row id="feature_row" %}
 
