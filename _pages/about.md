@@ -27,8 +27,10 @@ feature_row:
   image_size: 10000px
 ---
 
-Audrey Martin is a research scientist at the California Institute of Technology. To unravel the complexity of Solar System formation, Martin uses spectroscopy to determine the composition and physical properties of rocky objects like asteroids and the Moon. She employs a variety of techniques to make connections to the broader Solar System context, including spectroscopy of asteroids, and laboratory analogs of airless bodies using minerals and meteorites.
+I am a research scientist at the California Institute of Technology (Caltech). To unravel the complexity of Solar System formation, I uses spectroscopy to determine the composition and physical properties of rocky objects like asteroids and the Moon. I employ a variety of techniques to make connections to the broader Solar System context, including spectroscopy of asteroids, and laboratory analogs of airless bodies using minerals and meteorites.
 
-In addition to research, Audrey Martin is an active science communicator. She has been interviewed on NPR and NASA TV, and is a co-host the astronomy podcast Walkabout the Galaxy, where space science is explored with curiosity and humor. Martin has served as a panelist at events such as DragonCon in Atlanta GA, and has presented at events like a ‘Pint of Science’ in Knoxville TN. 
+My academic journey began at Saint Louis University (SLU), where I received a Bachelor of Science in Physics with a minor in Geology in 2015. In 2013, I participated in the NSF’s Research Experience for Undergraduates (REU) at Columbia University, where I searched for dark matter in the galactic center, and gained a love for space sciences. After taking some geology classes back at SLU, I decided to pursue a PhD. in **Planetary Science** – the intersection of <i>geological</i> and <i>space sciences</i>. I began graduate school at the University of Tennessee before transferring to Northern Arizona University with my graduate advisor, Dr. Joushua Emery, where I ultimately received my PhD. in 2022. Then I joined the research groups of Dr. Kerri Donaldson Hanna and Dr. Dan Britt as a Postdoctoral Scholar at the University of Central Florida for three years.
+
+In addition to research, I am an active science communicator and enjoy outreach activities. I've been interviewed on NPR and NASA TV, and I'm a co-host the astronomy podcast, Walkabout the Galaxy, where space science is explored with curiosity and humor! 
 
 {% include feature_row id="feature_row" %}
