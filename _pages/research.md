@@ -1,8 +1,6 @@
 ---
 layout: single
-title: "
-Research
-"
+title: " "
 permalink: /research/
 hidden: true
 header:
@@ -12,6 +10,7 @@ header:
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
+excerpt: <br />  Research <br /><br />
   
 # Includes author profile in sidebar
 author: First M. Last
