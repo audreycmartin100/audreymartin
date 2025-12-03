@@ -31,6 +31,6 @@ I am a research scientist at the California Institute of Technology (Caltech). T
 
 My academic journey began at Saint Louis University (SLU), where I received a Bachelor of Science in Physics with a minor in Geology in 2015. In 2013, I participated in the NSF’s Research Experience for Undergraduates (REU) at Columbia University, where I searched for dark matter in the galactic center, and gained a love for space sciences. After taking some geology classes back at SLU, I decided to pursue a PhD. in **Planetary Science** – the intersection of <i>geological</i> and <i>space sciences</i>. I began graduate school at the University of Tennessee before transferring to Northern Arizona University with my graduate advisor, Dr. Joushua Emery, where I ultimately received my PhD. in 2022. Then I joined the research groups of Dr. Kerri Donaldson Hanna and Dr. Dan Britt as a Postdoctoral Scholar at the University of Central Florida for three years.
 
-In addition to research, I am an active science communicator and enjoy outreach activities. I've been interviewed on NPR and NASA TV, and I'm a co-host the astronomy podcast, Walkabout the Galaxy, where space science is explored with curiosity and humor! 
+In addition to research, I am an active science communicator and enjoy outreach activities. I've been interviewed on NPR and NASA TV, and I'm a co-host the astronomy podcast, <i>Walkabout the Galaxy</i>, where space science is explored with curiosity and humor! 
 
 {% include feature_row id="feature_row" %}
