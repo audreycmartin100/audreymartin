@@ -31,7 +31,7 @@ Active research.
 Point to papers. 
 
 <figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/DJ.png">
+	<img src="{{ site.baseurl }}/assets/images/dinkinesh-and-selam copy.jpg">
 	<img src="{{ site.baseurl }}/assets/images/IcelandBasalt.JPEG">
 	<figcaption></figcaption>
 </figure>
