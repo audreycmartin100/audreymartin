@@ -23,7 +23,7 @@ feature_row:
 - image_path: /assets/images/MeteorCrater2.JPG
   excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ."
 - image_path: /assets/images/NASALive.png
-  excerpt: "Post Lucy spacecraft launch NASA TV interview, Coco Beach, FL."
+  excerpt: "Post Lucy spacecraft launch NASA TV interview, Cocoa Beach, FL."
   image_size: 10000px
 ---
 
