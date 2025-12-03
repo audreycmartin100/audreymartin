@@ -22,11 +22,11 @@ toc_sticky: true
 
 feature_row_Trojan:
 - image_path: /assets/images/dinkinesh-and-selam copy.jpg
-  excerpt: "Asteroid Dinkinesh with its satellite, Selam. Credit: NASA/SwRI/JHPL/NOIRLab/Brian May"
+  excerpt: "Asteroid Dinkinesh with its satellite, Selam.  <small>Credit: NASA/SwRI/JHPL/NOIRLab/Brian May </small>"
 - image_path: /assets/images/LucyPatch.jpeg
-  excerpt: "Lucy Mission Patch. Credit: NASA/SwRI"
+  excerpt: "Lucy Mission Patch. <small>Credit: NASA/SwRI</small>"
 - image_path: /assets/images/TrojanPic.png
-  excerpt: "Illustration of the Lucy spacecraft flying by Trojan Asteroids. Credit: Roen Kelly"
+  excerpt: "Illustration of the Lucy spacecraft flying by Trojan Asteroids.  <small>Credit: Roen Kelly </small>"
 
 ---
 My research interests are broadly motivated by the question “How did the Solar System form?” Planetary science is an inherently cross disciplinary field. So, I utilize techniques pulled from astronomy and geology to study the surfaces of objects within our Solar System.
