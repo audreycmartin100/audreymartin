@@ -28,6 +28,8 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Trojan asteroids. 
 Active research. 
+Follow along as Lucy journeys out to the Trojans! 
+
 Point to papers. 
 
 <figure class="half">
