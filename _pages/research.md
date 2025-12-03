@@ -19,7 +19,15 @@ author_profile: true
 #  
 toc: true
 toc_sticky: true  
-      
+
+feature_row_Trojan:
+- image_path: /assets/images/dinkinesh-and-selam copy.jpg
+  excerpt: "Asteroid Dinkinesh with its satellite, Selam. Credit: NASA/SwRI/JHPL/NOIRLab/Brian May"
+- image_path: /assets/images/LucyPatch.jpeg
+  excerpt: "Lucy Mission Patch. Credit: NASA/SwRI"
+- image_path: /assets/images/TrojanPic.png
+  excerpt: "Illustration of the Lucy spacecraft flying by Trojan Asteroids. Credit: Roen Kelly"
+
 ---
 My research interests are broadly motivated by the question “How did the Solar System form?” Planetary science is an inherently cross disciplinary field. So, I utilize techniques pulled from astronomy and geology to study the surfaces of objects within our Solar System.
 
@@ -28,15 +36,11 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Trojan asteroids. 
 Active research. 
-Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](whereislucy.space){:target="_blank"}
+Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](www.whereislucy.space){:target="_blank"}
 
 Point to papers. 
+{% include feature_row id="feature_row_Trojan" %}
 
-<figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/dinkinesh-and-selam copy.jpg">
-	<img src="{{ site.baseurl }}/assets/images/LucyPatch.JPEG">
-	<figcaption></figcaption>
-</figure>
 
 ## Laboratory Mid-IR Spectroscopy
 
