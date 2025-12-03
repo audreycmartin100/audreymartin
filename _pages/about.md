@@ -1,5 +1,7 @@
 ---
-title: "About"
+title: "
+About
+"
 layout: single
 permalink: /about/
 
@@ -11,7 +13,7 @@ classes: wide
 # If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.4"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/neowise 2.jpg
   #caption: "Comet Neowise"
  #font-size: 0.5em
