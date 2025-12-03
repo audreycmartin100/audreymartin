@@ -1,6 +1,8 @@
 ---
 layout: single
-title: "Research"
+title: "
+Research
+"
 permalink: /research/
 hidden: true
 header:
