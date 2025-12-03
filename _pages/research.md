@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.02"
-  overlay_image: /assets/images/DJ.png
+  overlay_image: /assets/images/dinkinesh-and-selam copy.png
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
@@ -21,7 +21,8 @@ toc: true
 toc_sticky: true  
       
 ---
-My overall research statment
+My research interests are broadly motivated by the question “How did the Solar System form?” Planetary science is an inherently cross disciplinary field. So, I utilize techniques pulled from astronomy and geology to study the surfaces of objects within our Solar System.
+
 
 ## Trojan Asteroids and the Lucy Mission
 
