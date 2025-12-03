@@ -26,7 +26,7 @@ feature_row:
     url: "/about/"
     btn_label: "About Me"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/neowise 2.jpg
+  - image_path: /assets/images/dinkinesh-and-selam copy.jpg
     alt: "Research"
     image_size: 100px
     title: "Research"
