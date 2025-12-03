@@ -36,7 +36,7 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Trojan asteroids. 
 Active research. 
-Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](www.whereislucy.space){:target="_blank"}
+Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
 
 Point to papers. 
 {% include feature_row id="feature_row_Trojan" %}
