@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /Research/
+permalink: /research/
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
