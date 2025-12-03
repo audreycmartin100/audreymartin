@@ -28,13 +28,13 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Trojan asteroids. 
 Active research. 
-Follow along as Lucy journeys out to the Trojans! 
+Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](whereislucy.space){:target="_blank"}
 
 Point to papers. 
 
 <figure class="half">
 	<img src="{{ site.baseurl }}/assets/images/dinkinesh-and-selam copy.jpg">
-	<img src="{{ site.baseurl }}/assets/images/IcelandBasalt.JPEG">
+	<img src="{{ site.baseurl }}/assets/images/LucyPatch.JPEG">
 	<figcaption></figcaption>
 </figure>
 
