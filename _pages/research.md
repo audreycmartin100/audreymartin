@@ -31,8 +31,8 @@ Active research.
 Point to papers. 
 
 <figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/field1.png">
-	<img src="{{ site.baseurl }}/assets/images/field2.png">
+	<img src="{{ site.baseurl }}/assets/images/DJ.png">
+	<img src="{{ site.baseurl }}/assets/images/IcelandBasalt.JPEG">
 	<figcaption></figcaption>
 </figure>
 
@@ -40,6 +40,12 @@ Point to papers.
 
 Laboratory based MIR studies. 
 Point to papers.
+
+<figure class="half">
+	<img src="{{ site.baseurl }}/assets/images/MeInLab.JPG">
+	<img src="{{ site.baseurl }}/assets/images/Zion.jpg">
+	<figcaption></figcaption>
+</figure>
 
 ## The Moon
 
