@@ -30,7 +30,7 @@ feature_row:
     alt: "Research"
     image_size: 100px
     title: "Research"
-    #url: "/research/"
+    url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/IcelandBasalt.JPEG
