@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.02"
-  overlay_image: /assets/images/dinkinesh-and-selam copy.png
+  overlay_image: /assets/images/DJ.png
   #actions:
   #  - label: "Get started"
   #    url: "/test/"
