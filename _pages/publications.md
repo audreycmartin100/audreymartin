@@ -1,5 +1,7 @@
 ---
-title: "Publications"
+title: "
+Publications
+"
 layout: single
 permalink: /publications/
 
