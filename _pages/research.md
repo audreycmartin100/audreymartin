@@ -26,7 +26,7 @@ My overall research statment
 
 ## Trojan Asteroids and the Lucy Mission
 
-Intro on Trojan asteroids and my involvment. 
+Trojan asteroids. 
 Active research. 
 Point to papers. 
 
