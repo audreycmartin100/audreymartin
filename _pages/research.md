@@ -23,8 +23,8 @@ toc_sticky: true
 feature_row_Trojan:
 - image_path: /assets/images/dinkinesh-and-selam copy.jpg
   excerpt: "<small>Asteroid Dinkinesh with its satellite, Selam.  Credit: NASA/SwRI/JHPL/NOIRLab/Brian May </small>"
-#- image_path: /assets/images/LucyPatch.jpeg
-#  excerpt: "<small>Lucy Mission Patch. Credit: NASA/SwRI</small>"
+- image_path: /assets/images/LucyPatch.jpeg
+  excerpt: "<small>Lucy Mission Patch. Credit: NASA/SwRI</small>"
 - image_path: /assets/images/TrojanPic.jpg
   excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  Credit: Roen Kelly </small>"
 
@@ -37,8 +37,15 @@ My research interests are broadly motivated by the question “How did the Solar
 Trojan asteroids. 
 Active research. 
 Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
+ 
+**Relevant Papers**
+<ul>
+<li>[<span style="color:Black;font-weight:bold;">The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission.</span>](https://doi.org/10.1038/s41586-024-07378-0){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:18px" class="fa">&#xf019;</i> </a> </li>
+<li>[<span style="color:Black;font-weight:bold;">JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2.</span>](https://doi.org/10.3847/PSJ/ad2fc3){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:18px" class="fa">&#xf019;</i> </a> </li>
+<li> [<span style="color:Black;font-weight:bold;">Surface Compositions of Trojan Asteroids.</span>](https://doi.org/10.1007/s11214-024-01060-7){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:18px" class="fa">&#xf019;</i> </a></li>
+<li>[<span style="color:Black;font-weight:bold;">Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids.</span>](https://doi.org/10.3847/PSJ/aced0c){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:18px" class="fa">&#xf019;</i> </a> </li>
+</ul>
 
-Point to papers. 
 {% include feature_row id="feature_row_Trojan" %}
 
 
