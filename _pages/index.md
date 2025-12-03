@@ -33,7 +33,7 @@ feature_row:
     #url: "/research/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/Sedona2.jpg
+  - image_path: /assets/images/IcelandBasalt.JPEG
     alt: "Outreach"
     #image_size: 500px
     title: "Outreach"
