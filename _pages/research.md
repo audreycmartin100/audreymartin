@@ -21,7 +21,6 @@ toc: true
 toc_sticky: true  
       
 ---
-# Research
 My overall research statment
 
 ## Trojan Asteroids and the Lucy Mission
