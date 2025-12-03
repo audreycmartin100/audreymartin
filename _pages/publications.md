@@ -1,5 +1,5 @@
 ---
-title: " "
+title: " Publications"
 layout: single
 permalink: /publications/
 
@@ -15,7 +15,7 @@ header:
   overlay_image: /assets/images/Flagstaff2.jpg
   #caption: "Flagstaff, AZ"
   font: "Helvetica" 
-excerpt: <br />  Publications <br /><br /> 
+excerpt: <br />          <br /><br /> 
 ---
 
 | <big>Peer Reviewed</big>                                                                                                                                                                                                                                                                                                                                                   | 
