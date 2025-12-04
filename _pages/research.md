@@ -41,10 +41,10 @@ Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">Wh
 
 <ul>
 <span style="color:MidnightBlue;font-weight:bold;">Relevant Papers</span><br>
-	<small> <li> <span style="color:MidnightBlue;font-weight:bold;">The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</span> <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><span style="color:MidnightBlue;font-weight:bold;">JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </span> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><span style="color:MidnightBlue;font-weight:bold;">Surface Compositions of Trojan Asteroids </span> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><span style="color:MidnightBlue;font-weight:bold;">Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </span> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li></small></ul>
+	<small> <li> <b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</b> <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </b> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li></small></ul>
 
 {% include feature_row id="feature_row_Trojan" %}
 
