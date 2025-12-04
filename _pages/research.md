@@ -52,10 +52,16 @@ Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">Wh
 ## Laboratory Mid-IR Spectroscopy
 
 Laboratory based MIR studies. 
-Point to papers.
+
+<ul>
+<b>Relevant Papers</b><br>
+	<small> <li> <b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</b> <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </b> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li></small></ul>
 
 <figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/MeInLab.JPG">
+	<img src="{{ site.baseurl }}/assets/images/Sedona1.JPG">
 	<img src="{{ site.baseurl }}/assets/images/Zion.jpg">
 	<figcaption></figcaption>
 </figure>
