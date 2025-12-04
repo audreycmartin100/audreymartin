@@ -13,6 +13,8 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.1"
   overlay_image: /assets/images/neowise 2.jpg
+  excerpt: <br />   <br /><br />
+
   #caption: "Comet Neowise"
  #font-size: 0.5em
 
