@@ -12,6 +12,7 @@ header:
   overlay_filter: "0.01"
   overlay_image: /assets/images/IcelandGlacier.JPEG
   caption: 
+  exerpt: <br />          <br /><br />
 ---
  
 
