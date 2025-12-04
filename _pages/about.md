@@ -3,10 +3,6 @@ title: " About"
 layout: single
 permalink: /about/
 
-# Includes author profile in sidebar
-author: First M. Last
-author_profile: true
-
 classes: wide
 # If you want a header image
 header:
@@ -17,6 +13,10 @@ header:
 
   #caption: "Comet Neowise"
  #font-size: 0.5em
+
+# Includes author profile in sidebar
+author: First M. Last
+author_profile: true
 
 feature_row:
 - image_path: /assets/images/Rover.jpg
