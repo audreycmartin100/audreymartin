@@ -37,10 +37,10 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Trojan asteroids. 
 Active research. 
-Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
+Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
 
 <ul>
-<span style="color:MidnightBlue;font-weight:bold;">Relevant Papers</span><br>
+<b>Relevant Papers</b><br>
 	<small> <li> <b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</b> <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li><b>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </b> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
