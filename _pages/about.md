@@ -3,20 +3,19 @@ title: " About"
 layout: single
 permalink: /about/
 
+# Includes author profile in sidebar
+author: First M. Last
+author_profile: true
+
 classes: wide
 # If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.1"
+  overlay_filter: "0.05"
   overlay_image: /assets/images/neowise 2.jpg
-  excerpt: <br />      <br /><br />
-
-  #caption: "Comet Neowise"
- #font-size: 0.5em
-
-# Includes author profile in sidebar
-author: First M. Last
-author_profile: true
+  #caption: "Flagstaff, AZ"
+  font: "Helvetica" 
+excerpt: <br />          <br /><br /> 
 
 feature_row:
 - image_path: /assets/images/Rover.jpg
