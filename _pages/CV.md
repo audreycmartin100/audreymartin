@@ -1,18 +1,21 @@
 ---
 title: " Curriculum Vitae"
 layout: single
-permalink: /CV/
+permalink: /cv/
 
 # Includes author profile in sidebar
 author: First M. Last
 author_profile: true
 
+classes: wide
+# If you want a header image
 header:
   overlay_color: "#222222" #"#5e616c"
-  overlay_filter: "0.01"
+  overlay_filter: "0.05"
   overlay_image: /assets/images/IcelandGlacier.JPEG
-  #caption: 
-
+  #caption: "Flagstaff, AZ"
+  font: "Helvetica" 
+excerpt: <br />          <br /><br /> 
 ---
  
 
