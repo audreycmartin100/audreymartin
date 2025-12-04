@@ -1,7 +1,7 @@
 ---
 title: " Curriculum Vitae"
 layout: single
-permalink: /cv/
+permalink: /CV/
 
 # Includes author profile in sidebar
 author: First M. Last
