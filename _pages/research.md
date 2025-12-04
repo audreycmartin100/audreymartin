@@ -23,11 +23,11 @@ toc_sticky: true
 
 feature_row_Trojan:
 - image_path: /assets/images/dinkinesh-and-selam copy.jpg
-  excerpt: "<small>Asteroid Dinkinesh with its satellite, Selam.  Credit: NASA/SwRI/JHPL/NOIRLab/Brian May </small>"
+  excerpt: "<small>Asteroid Dinkinesh with its satellite, Selam.  <i>Credit: NASA/SwRI/JHPL/NOIRLab/Brian May</i></small>"
 - image_path: /assets/images/LucyPatch.jpeg
-  excerpt: "<small>Lucy Mission Patch. Credit: NASA/SwRI</small>"
+  excerpt: "<small>Lucy Mission Patch. <i>Credit: NASA/SwRI</i></small>"
 - image_path: /assets/images/TrojanPic.jpg
-  excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  Credit: Roen Kelly </small>"
+  excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  <i>Credit: Roen Kelly</i></small>"
 
 ---
 My research interests are broadly motivated by the question “How did the Solar System form?” Planetary science is an inherently cross disciplinary field. So, I utilize techniques pulled from astronomy and geology to study the surfaces of objects within our Solar System.
@@ -41,11 +41,10 @@ Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">Wh
 
 <ul>
 <b>Relevant Papers</b><br>
-	<li><small><b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission </b>b><a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li><small><b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission </b><a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li><b>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </b> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li></small>
-</ul>
+	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li></small></ul>
 
 {% include feature_row id="feature_row_Trojan" %}
 
