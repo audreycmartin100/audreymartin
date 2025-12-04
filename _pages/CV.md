@@ -11,8 +11,8 @@ header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.01"
   overlay_image: /assets/images/IcelandGlacier.JPEG
-  caption: 
-  exerpt: <br />          <br /><br />
+  #caption: 
+  excerpt: <br />          <br /><br />
 ---
  
 
