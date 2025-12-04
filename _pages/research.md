@@ -47,10 +47,10 @@ Follow along as Lucy journeys out to the Trojans! [<span style="color:Black;">Wh
 
 <ul>
 <b>Relevant Papers</b><br>
-	<li>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
+	<li>[<span style="color:Black;">The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</span>](https://doi.org/10.1038/s41586-024-07378-0){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li>Surface Compositions of Trojan Asteroids <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li>
+	<li>[<span style="color:Black;font-weight:bold;">Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids</span>](https://doi.org/10.3847/PSJ/aced0c){:target="_blank"} <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Black;font-size:15px" class="fa">&#xf019;</i> </a></li>
 </ul>
 
 {% include feature_row id="feature_row_Trojan" %}
