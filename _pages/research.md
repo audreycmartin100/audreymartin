@@ -55,10 +55,12 @@ Laboratory based MIR studies.
 
 <ul>
 <b>Relevant Papers</b><br>
-	<small> <li> <b>Mid-Infrared Reflectance and Emissivity Spectra of High Porosity Regoliths </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<span style="color:White;font-size:12px"> Data Available Here </span>](https://zenodo.org/records/12808383){:target="_blank"} </li>
+	<small> <li> <b>Mid-Infrared Reflectance and Emissivity Spectra of High Porosity Regoliths </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<span> style="color:White;font-size:12px"> Data Available Here </span>](https://zenodo.org/records/12808383){:target="_blank"} </li>
 	<li> <b>Measuring the effects of regolith porosity on mid-IR spectra of the Allende meteorite </b> <a class="download-button" href="{{ '/assets/pdfs/Dausend_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/12808383){:target="_blank"}</li>
 		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Pyroxene </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2023.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/11398016){:target="_blank"}</li>
-		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Forsteritic olivine </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2022.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/11397925){:target="_blank"}</li> </small>
+		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Forsteritic olivine </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2022.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> <a href="https://zenodo.org/records/11397925">Data Available Here</a> </li>
+			
+			[<small>Data Available Here</small>](https://zenodo.org/records/11397925){:target="_blank"} </li> </small>
 </ul>
 
 <figure class="half">
