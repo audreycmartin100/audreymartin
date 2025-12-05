@@ -55,7 +55,10 @@ Laboratory based MIR studies.
 
 <ul>
 <b>Relevant Papers</b><br>
-	<small> <li> <b>Mid-Infrared Reflectance and Emissivity Spectra of High Porosity Regoliths.</b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/13308246){:target="_blank"} </li>
+	<small> <li> <b>Mid-Infrared Reflectance and Emissivity Spectra of High Porosity Regoliths </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/13308246){:target="_blank"} </li>
+	<li> <b>Measuring the effects of regolith porosity on mid-IR spectra of the Allende meteorite </b> <a class="download-button" href="{{ '/assets/pdfs/Dausend_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/12808383){:target="_blank"}</li>
+		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Pyroxene </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2023.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/11398016){:target="_blank"}</li>
+		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Forsteritic olivine </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2022.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> [<small>Data Available Here</small>](https://zenodo.org/records/11397925){:target="_blank"}</li> </small>
 </ul>
 
 <figure class="half">
@@ -73,8 +76,19 @@ Moon spectroscopy.
 Spitzer Space Telescope. 
 JWST. 
 
+<ul>
+<b>Relevant Papers</b><br>
+	<small> <li> <b> Comparative Mid-Infrared Spectroscopy of Dark, Primitive Asteroids: Does Shared Taxonomic Cass Indicate Shared Silicate Composition? </b> <a class="download-button" href="{{ '/assets/pdfs/Humes_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> </small>
+</ul>
+
 ## Analog Field Work
 TREX SSERVI.
+
+<ul>
+<b>Relevant Papers</b><br>
+	<small> <li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> </small>
+</ul>
+
 
 <figure class="full">
 	<img src="{{ site.baseurl }}/assets/images/Rover.jpg">
