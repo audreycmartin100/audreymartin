@@ -29,7 +29,7 @@ feature_row_Trojan:
 - image_path: /assets/images/TrojanPic.jpg
   excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  <i>Credit: Roen Kelly</i></small>"
 
-  feature_row_Lab:
+feature_row_Lab:
 - image_path: /assets/images/Olivine.png
   excerpt: "<small>Spectra of particulate olivine with increasing regolith porosity from top to bottom (Martin et al., 2022).</small>"
 - image_path: /assets/images/Olivine Rock.JPG
