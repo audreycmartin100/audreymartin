@@ -62,7 +62,7 @@ Laboratory based MIR studies.
 </ul>
 
 <figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/olivine.png">
+	<img src="{{ site.baseurl }}/assets/images/Olivine.png">
 	<img src="{{ site.baseurl }}/assets/images/Zion.jpg">
 	<figcaption> Spectra of particulate olivine with increasing regolith porosity from top to bottom (Martin et al., 2022).</figcaption>
 </figure>
