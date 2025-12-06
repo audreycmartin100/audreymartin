@@ -29,6 +29,12 @@ feature_row_Trojan:
 - image_path: /assets/images/TrojanPic.jpg
   excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  <i>Credit: Roen Kelly</i></small>"
 
+  feature_row_Lab:
+- image_path: /assets/images/Olivine.png
+  excerpt: "<small>Spectra of particulate olivine with increasing regolith porosity from top to bottom (Martin et al., 2022).</small>"
+- image_path: /assets/images/Olivine Rock.JPG
+  excerpt: "<small>Olivine hand sample.</small>"
+
 ---
 My research interests are broadly motivated by the question “How did the Solar System form?” Planetary science is an inherently cross disciplinary field. So, I utilize techniques pulled from astronomy and geology to study the surfaces of objects within our Solar System.
 
@@ -61,11 +67,7 @@ Laboratory based MIR studies.
 		<li> <b>Spectral effect of regolith porosity in the Mid-IR – Forsteritic olivine </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_etal_2022.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> <br> <a href="https://zenodo.org/records/11397925" target="_blank"> <small style="color:White;font-size:12px"> Data Available Here</small></a> </li> </small>		
 </ul>
 
-<figure class="half">
-	<img src="{{ site.baseurl }}/assets/images/Olivine.png">
-	<img src="{{ site.baseurl }}/assets/images/Zion.jpg">
-	<figcaption> Spectra of particulate olivine with increasing regolith porosity from top to bottom (Martin et al., 2022).</figcaption>
-</figure>
+{% include feature_row id="feature_row_Lab" %}
 
 ## The Moon
 
