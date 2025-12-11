@@ -92,9 +92,8 @@ I have had the opportunity to participate in a few field campaigns including an 
 <ul>
 <b>Relevant Papers</b><br>
 	<small> <li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> 
-	<li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li> </small>
+	<li> <b> Active neutron interrogation experiments and simulation verification using the SIngle-scintillator Neutron and Gamma-Ray spectrometer (SINGR) for geosciences. </b> <a class="download-button" href="{{ '/assets/pdfs/Heffern_etal_2021.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li> </small>
 </ul>
-
 
 <figure class="full">
 	<img src="{{ site.baseurl }}/assets/images/Rover.jpg">
