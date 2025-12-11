@@ -54,7 +54,9 @@ Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">Wh
 
 {% include feature_row id="feature_row_Trojan" %}
 
-## Asteroid Observations
+
+## Asteroid Spectroscopy
+
 Asteroid have long been studied via spectroscopy. Historically, most observations focused on visible and near-infrared (VNIR) wavelengths. Recently, an increasing number of mid-infrared (MIR) observations have expanded our understanding of asteroids and their regoliths because MIR spectra are uniquely powerful for investigating silicate minerals and regolith structure (See Laboratory Spectroscopy below). <br>
 My research focuses on determining the composition and regolith properties of asteroids throughout the Solar System. Many asteroids, like the Trojans, exhibit few or no diagnostic features in the VNIR. Yet, these same objects display amazing spectral features in the MIR. By analyzing MIR spectra from the Spitzer Space Telescope archive and new spectra using James Webb Space Telescope, I can uncover the composition of otherwise featureless asteroids.
 
@@ -83,18 +85,14 @@ A central theme of my research is understanding how ‘regolith porosity’ (i.e
 {% include feature_row id="feature_row_Lab" %}
 
 
-
-## The Moon
-
-Moon intro. 
-Moon spectroscopy.
-
 ## Analog Field Work
-TREX SSERVI.
+
+I have had the opportunity to participate in a few field campaigns including an active neutron detector test at Goddard Space Flight Center, and a rover autonomy experiment with the Planetary Science Institute’s SSERVI team. 
 
 <ul>
 <b>Relevant Papers</b><br>
-	<small> <li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> </small>
+	<small> <li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> 
+	<li> <b> Rover Science Autonomy in Planetary Exploration: Field Analog Tests </b> <a class="download-button" href="{{ '/assets/pdfs/Dobrea_etal_2025.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li> </small>
 </ul>
 
 
