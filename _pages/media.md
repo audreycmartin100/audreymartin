@@ -25,9 +25,9 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 [<span style="color:White;">Apple Podcast</span>](https://podcasts.apple.com/us/podcast/walkabout-the-galaxy/id867430953){:target="_blank"}, or wherever you get your podcasts. 
 
 # Media Appearances 
+<a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-04-01/the-scoop-on-scopes" target="_blank"> <b style="color:White;font-size:20px"> The Scoop on 'Scopes </b></a> WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025
 <ul>
-	<li> <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-04-01/the-scoop-on-scopes" target="_blank"> <b style="color:White;font-size:23px"> The Scoop on 'Scopes </b></a> WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 </li>
-  	<li> <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-03-04/impending-doom-from-asteroids-and-storing-earthly-data-on-the-moon" target="_blank"> <b style="color:White;font-size:23px"> Impending doom from asteroids and storing Earthly data on the Moon</b></a> WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </li>
+  	<li> <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-03-04/impending-doom-from-asteroids-and-storing-earthly-data-on-the-moon" target="_blank"> <b style="color:White;font-size:20px"> Impending doom from asteroids and storing Earthly data on the Moon</b></a> WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </li>
   	<li> <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2024-02-20/weather-satellites-space-and-humans-mars" target="_blank"> <b style="color:White;font-size:23px"> Weather satellites in space and humans on Mars</b></a> WMFE Central Florida Public Radio, Are We There Yet? February 20, 2024 </li>
   	<li> <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2023-10-31/are-we-spooked-yet-a-creepy-tour-of-the-cosmos-on-this-halloween" target="_blank"> <b style="color:White;font-size:23px"> Are we spooked yet? A creepy tour of the cosmos on this Halloween</b></a> WMFE Central Florida Public Radio, Are We There Yet? October 31, 2023 </li>
   	<li> <a href="https://www.youtube.com/watch?v=9UFpXW018JQ" target="_blank"> <b style="color:White;font-size:23px"> We Asked a NASA Scientist - What are the Trojan Asteroids?</b></a> NASA YouTube </li>
@@ -38,7 +38,7 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
   <iframe src="https://www.youtube.com/embed/9UFpXW018JQ?si=J-C4uCOiAhJ34yGP" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+#
 # In the News
 <ul>
 	<li> <a href="https://magazine.caltech.edu/post/socaltech-audrey-martin" target="_blank"> <b style="color:White;font-size:23px"> #SoCaltech: Audrey Martin</b></a> Caltech Magazine (2025)</li>
