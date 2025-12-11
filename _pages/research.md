@@ -26,8 +26,8 @@ feature_row_Trojan:
   excerpt: "<small>Asteroid Dinkinesh with its satellite, Selam.  <i>Credit: NASA/SwRI/JHPL/NOIRLab/Brian May</i></small>"
 - image_path: /assets/images/LucyPatch.jpeg
   excerpt: "<small>Lucy Mission Patch. <i>Credit: NASA/SwRI</i></small>"
-- image_path: /assets/images/TrojanPic.jpg
-  excerpt: "<small>Illustration of the Lucy spacecraft flying by Trojan Asteroids.  <i>Credit: Roen Kelly</i></small>"
+- image_path: /assets/images/traj_Eurybates.jpg
+  excerpt: "<small>Solar System schematic with Lucy’s trajectory during the Eurybates encounter. <i>Credit: NASA/Goddard/SwRI/ASU</i></small>"
 
 feature_row_Lab:
 - image_path: /assets/images/Olivine.png
@@ -41,9 +41,13 @@ My research interests are broadly motivated by the question “How did the Solar
 
 ## Trojan Asteroids and the Lucy Mission
 
-Trojan asteroids. 
-Active research. 
-Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
+Jupiter Trojan asteroids (hereafter, Trojans) are an important population of asteroids that orbit in Jupiter’s stable Lagrange points. Due to the orbital stability, Trojans have likely been ‘trapped’ in place for billions of years. Trojans are particularly important because they link together formation theories and dynamical models that explain how our Solar System formed. <br>
+
+NASA’s Lucy mission is the first spacecraft designed to visit the Trojans. Lucy launched in 2021 and will do five Trojan encounters over a 12-year journey. So far Lucy has completed two ‘test’ encounters of main belt asteroids Dinkinesh in 2023, and DonaldJohanson in 2025. In 2027 Lucy will encounter its first Trojan target, Eurybates. <br>
+Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"} <br>
+
+I am a collaborator on the Lucy team. As a collaborator and in my independent research, I look at the spectra of Trojan asteroids, like the Lucy Targets. My work focuses on understanding surface composition and regolith structure using observations from space-based telescopes like the James Webb Space Telescope.
+
 
 <ul>
 <b>Relevant Papers</b><br>
