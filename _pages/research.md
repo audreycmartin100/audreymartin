@@ -43,26 +43,34 @@ My research interests are broadly motivated by the question “How did the Solar
 
 Jupiter Trojan asteroids (hereafter, Trojans) are an important population of asteroids that orbit in Jupiter’s stable Lagrange points. Trojans are particularly important because they link together formation theories and dynamical models that explain how our Solar System formed. <br>
 
-NASA’s Lucy mission is the first spacecraft designed to visit the Trojans. Lucy launched in 2021 and will do five Trojan encounters over a 12-year journey. So far Lucy has completed two ‘test’ encounters of main belt asteroids Dinkinesh in 2023, and DonaldJohanson in 2025. In 2027 Lucy will encounter its first Trojan target, Eurybates.
+NASA’s Lucy mission is the first spacecraft designed to visit the Trojans. Lucy launched in 2021 and will do five Trojan encounters over a 12-year journey. So far Lucy has completed two ‘test’ encounters of main belt asteroids Dinkinesh in 2023, and DonaldJohanson in 2025. In 2027 Lucy will encounter its first Trojan target, Eurybates. I am a collaborator on the Lucy team. As a collaborator, and in my independent research, I look at the spectra of Trojan asteroids, like the Lucy Targets. 
 Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"} <br>
-
-I am a collaborator on the Lucy team. As a collaborator, and in my independent research, I look at the spectra of Trojan asteroids, like the Lucy Targets. My work focuses on understanding surface composition and regolith structure using observations from space-based telescopes like the James Webb Space Telescope.
-
 
 <ul>
 <b>Relevant Papers</b><br>
 	<small> <li> <b>The Discovery of a Contact-Binary Satellite of the Asteroid (152830) Dinkinesh by the Lucy Mission</b> <a class="download-button" href="{{ '/assets/pdfs/Levison_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
 	<li><b>JWST near-infrared spectroscopy of the Lucy Jupiter Trojan flyby targets: Evidence for OH absorption, aliphatic organics, and CO2 </b> <a class="download-button" href="{{ '/assets/pdfs/Wong_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li>
-	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li></small></ul>
+	<li><b>Surface Compositions of Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Emery_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a> </li></small></ul>
 
 {% include feature_row id="feature_row_Trojan" %}
 
+## Asteroid Observations
+Asteroid have long been studied via spectroscopy. Historically, most observations focused on visible and near-infrared (VNIR) wavelengths. Recently, an increasing number of mid-infrared (MIR) observations have expanded our understanding of asteroids and their regoliths because MIR spectra are uniquely powerful for investigating silicate minerals and regolith structure (See Laboratory Spectroscopy below). <br>
+My research focuses on determining the composition and regolith properties of asteroids throughout the Solar System. Many asteroids, like the Trojans, exhibit few or no diagnostic features in the VNIR. Yet, these same objects display amazing spectral features in the MIR. By analyzing MIR spectra from the Spitzer Space Telescope archive and new spectra using James Webb Space Telescope, I can uncover the composition of otherwise featureless asteroids.
 
-## Laboratory Mid-IR Spectroscopy
+<ul>
+<b>Relevant Papers</b><br>
+	<small> <li> <b> Comparative Mid-Infrared Spectroscopy of Dark, Primitive Asteroids: Does Shared Taxonomic Cass Indicate Shared Silicate Composition? </b> <a class="download-button" href="{{ '/assets/pdfs/Humes_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> 
+	<li><b>Mid-Infrared Spectral Analysis of Jovian Trojan Asteroids </b> <a class="download-button" href="{{ '/assets/pdfs/Martin_and_Emery_2023.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a></li> </small>
+</ul>
 
-A central theme of my research is understanding how ‘regolith porosity’ (i.e., fluffy-ness) affects spectral signatures. To improve the interpretation of observations of rocky objects, like asteroids, I develop detailed spectral libraries of common asteroid minerals. By comparing these spectral libraries to asteroid spectra, we discovered that many asteroids have exceedingly fluffy regoliths. With a clearer picture of how porosity shapes spectral behavior, more reliable compositional interpretations become possible.
- 
+
+## Laboratory Spectroscopy
+
+A central theme of my research is understanding how ‘regolith porosity’ (i.e., fluffy-ness) affects spectral signaturesin the mid-infrared wavelength region. To improve the interpretation of observations of rocky objects, like asteroids, I develop detailed spectral libraries of common asteroid minerals. By comparing these spectral libraries to asteroid spectra, we discovered that many asteroids have exceedingly fluffy regoliths. With a clearer picture of how porosity shapes spectral behavior, more reliable compositional interpretations become possible. These spectral libraries are freely available via the links below. <br>
+
+<b>This work is ongoing!</b> I am actively developing and publishing additional spectral libraries to meet the growing need for high-quality, well-characterized analog spectra. 
+
 
 <ul>
 <b>Relevant Papers</b><br>
@@ -74,19 +82,12 @@ A central theme of my research is understanding how ‘regolith porosity’ (i.e
 
 {% include feature_row id="feature_row_Lab" %}
 
+
+
 ## The Moon
 
 Moon intro. 
 Moon spectroscopy.
-
-## Asteroid Observations
-Spitzer Space Telescope. 
-JWST. 
-
-<ul>
-<b>Relevant Papers</b><br>
-	<small> <li> <b> Comparative Mid-Infrared Spectroscopy of Dark, Primitive Asteroids: Does Shared Taxonomic Cass Indicate Shared Silicate Composition? </b> <a class="download-button" href="{{ '/assets/pdfs/Humes_etal_2024.pdf' | relative_url }}" download> <i style="color:Cornsilk;font-size:15px" class="fa">&#xf019;</i> </a>  </li> </small>
-</ul>
 
 ## Analog Field Work
 TREX SSERVI.
