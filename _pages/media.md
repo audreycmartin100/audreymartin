@@ -22,7 +22,7 @@ I am a co-host of the [<span style="color:White;">Walkabout the Galaxy</span>](h
 A conversational podcast that covers the latest news in astronomy, physics, and planetary science. 
 New episodes drop on Wednesdays.
 Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/show/4TqNDqt9aV3LRJ7BCt0Oob){:target="_blank"}, 
-[<span style="color:White;">Apple Podcast</span>](https://podcasts.apple.com/us/podcast/walkabout-the-galaxy/id867430953){:target="_blank"}, or wherever you get your podcasts. 
+[<span style="color:White;">Apple Podcast</span>](https://podcasts.apple.com/us/podcast/walkabout-the-galaxy/id867430953){:target="_blank"}, or wherever you get your podcasts. <br>
 
 # Media Appearances <br>
 <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-04-01/the-scoop-on-scopes" target="_blank"> <b style="color:White;font-size:20px"> The Scoop on 'Scopes </b></a> <br>
@@ -40,7 +40,7 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/9UFpXW018JQ?si=J-C4uCOiAhJ34yGP" frameborder="0" allowfullscreen></iframe>
 </div>
-
+<br>
 #
 # In the News <br>
 <a href="https://magazine.caltech.edu/post/socaltech-audrey-martin" target="_blank"> <b style="color:White;font-size:20px"> #SoCaltech: Audrey Martin</b></a> <br>
