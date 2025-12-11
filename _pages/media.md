@@ -1,0 +1,57 @@
+---
+layout: single
+title: "Media"
+permalink: /media/
+hidden: true
+header:
+  overlay_color: "#222222" #"#5e616c"
+  overlay_filter: "0.02"
+  overlay_image: /assets/images/IcelandBeach.JPEG
+excerpt: <br />   <br /><br />
+
+# Includes author profile in sidebar
+author: First M. Last
+author_profile: true
+
+toc: true
+toc_sticky: true 
+
+---
+# Walkabout the Galaxy
+I am a co-host of the [<span style="color:White;">Walkabout the Galaxy</span>](https://sciences.ucf.edu/physics/walkaboutthegalaxy/){:target="_blank"} podcast! 
+A conversational podcast that covers the latest news in astronomy, physics, and planetary science. 
+New episodes drop on Wednesdays.
+Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/show/4TqNDqt9aV3LRJ7BCt0Oob){:target="_blank"}, 
+[<span style="color:White;">Apple Podcast</span>](https://podcasts.apple.com/us/podcast/walkabout-the-galaxy/id867430953){:target="_blank"}, or wherever you get your podcasts. 
+
+# Media Appearances 
+<ul>
+	<li> The Scoop on 'Scopes. WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 </li>
+  	<li> Impending doom from asteroids and storing Earthly data on the Moon. WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </li>
+  	<li> Weather satellites in space and humans on Mars. WMFE Central Florida Public Radio, Are We There Yet? February 20, 2024 </li>
+  	<li> Are we spooked yet? A creepy tour of the cosmos on this Halloween. WMFE Central Florida Public Radio, Are We There Yet? October 31, 2023 </li>
+  	<li> We Asked a NASA Scientist - What are the Trojan Asteroids? NASA YouTube </li>
+  	<li> Launch of NASA's Lucy Mission to Jupiter's Trojan Asteroids. NASA TV </li>
+</ul>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/9UFpXW018JQ?si=J-C4uCOiAhJ34yGP" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+# In the News
+<ul>
+	<li> #SoCaltech: Audrey Martin. Caltech Magazine (2025)</li>
+  	<li> Arizona astronomers queue up to use the new James Webb Space Telescope. KNAU Arizona Public Radio, News and Talk. December 23, 2021 </li>
+  	<li> NAU scientists, students will utilize newly launched James Webb Space Telescope for solar system research. The NAU Review. December 25, 2021 </li>
+  	<li> First mission to Jupiter's asteroids could reveal Solar System origins. Nature. October 14, 2021 </li>
+</ul>
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/w-f_wY1Lsx8?si=PBb-aks-N5XFrRha" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+[<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
+
+
