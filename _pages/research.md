@@ -41,12 +41,12 @@ My research interests are broadly motivated by the question “How did the Solar
 
 ## Trojan Asteroids and the Lucy Mission
 
-Jupiter Trojan asteroids (hereafter, Trojans) are an important population of asteroids that orbit in Jupiter’s stable Lagrange points. Due to the orbital stability, Trojans have likely been ‘trapped’ in place for billions of years. Trojans are particularly important because they link together formation theories and dynamical models that explain how our Solar System formed. <br>
+Jupiter Trojan asteroids (hereafter, Trojans) are an important population of asteroids that orbit in Jupiter’s stable Lagrange points. Trojans are particularly important because they link together formation theories and dynamical models that explain how our Solar System formed. <br>
 
-NASA’s Lucy mission is the first spacecraft designed to visit the Trojans. Lucy launched in 2021 and will do five Trojan encounters over a 12-year journey. So far Lucy has completed two ‘test’ encounters of main belt asteroids Dinkinesh in 2023, and DonaldJohanson in 2025. In 2027 Lucy will encounter its first Trojan target, Eurybates. <br>
+NASA’s Lucy mission is the first spacecraft designed to visit the Trojans. Lucy launched in 2021 and will do five Trojan encounters over a 12-year journey. So far Lucy has completed two ‘test’ encounters of main belt asteroids Dinkinesh in 2023, and DonaldJohanson in 2025. In 2027 Lucy will encounter its first Trojan target, Eurybates.
 Follow along as Lucy journeys out to the Trojans! [<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"} <br>
 
-I am a collaborator on the Lucy team. As a collaborator and in my independent research, I look at the spectra of Trojan asteroids, like the Lucy Targets. My work focuses on understanding surface composition and regolith structure using observations from space-based telescopes like the James Webb Space Telescope.
+I am a collaborator on the Lucy team. As a collaborator, and in my independent research, I look at the spectra of Trojan asteroids, like the Lucy Targets. My work focuses on understanding surface composition and regolith structure using observations from space-based telescopes like the James Webb Space Telescope.
 
 
 <ul>
@@ -61,7 +61,8 @@ I am a collaborator on the Lucy team. As a collaborator and in my independent re
 
 ## Laboratory Mid-IR Spectroscopy
 
-Laboratory based MIR studies. 
+A central theme of my research is understanding how ‘regolith porosity’ (i.e., fluffy-ness) affects spectral signatures. To improve the interpretation of observations of rocky objects, like asteroids, I develop detailed spectral libraries of common asteroid minerals. By comparing these spectral libraries to asteroid spectra, we discovered that many asteroids have exceedingly fluffy regoliths. With a clearer picture of how porosity shapes spectral behavior, more reliable compositional interpretations become possible.
+ 
 
 <ul>
 <b>Relevant Papers</b><br>
