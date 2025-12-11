@@ -16,17 +16,16 @@ author_profile: true
 toc: true
 toc_sticky: true 
 
-gallery:
-- url: /assets/images/pahoehoe
-  image_path: /assets/images/pahoehoe.png
-  alt: "Pahoehoe"
-  title: "Pahoehoe in MN"
-
 ---
 # Walkabout the Galaxy
 I am a co-host of the Walkabout the Galaxy podcast! A conversational podcast that covers the latest news in astronomy, physics, and planetary science. New episodes drop on Wednesdays.
 
 # Media Appearances 
+
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/9UFpXW018JQ?si=J-C4uCOiAhJ34yGP" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 # Science in the News
 
@@ -34,10 +33,7 @@ I am a co-host of the Walkabout the Galaxy podcast! A conversational podcast tha
   <iframe src="https://www.youtube.com/embed/w-f_wY1Lsx8?si=PBb-aks-N5XFrRha" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Gallery of Field and Remote Sensing Images
-<i>Click on each image to enlarge.</i>
 
-{% include gallery layout="half" %}
 
 
 
