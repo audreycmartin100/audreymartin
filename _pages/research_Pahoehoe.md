@@ -4,11 +4,10 @@ title: "Media"
 permalink: /media/
 hidden: true
 header:
-  overlay_color: "#222222"
-  overlay_filter: "0.5"
-  overlay_image: assets/images/pahoehoe.png
-  caption: Pahoehoe in North shore 
-excerpt: How do these pahoehoe formation appear on these river terrace in North Shore MN?
+  overlay_color: "#222222" #"#5e616c"
+  overlay_filter: "0.02"
+  overlay_image: /assets/images/IcelandBeach.JPEG
+excerpt: <br />   <br /><br />
 
 # Includes author profile in sidebar
 author: First M. Last
@@ -24,11 +23,12 @@ gallery:
   title: "Pahoehoe in MN"
 
 ---
-# The Rift Across Lake Superior
-Lake Superior's dramatic landscape owes much to a massive geological rift that formed over a billion years ago. This rift, known as the Midcontinent Rift, split the Earth's crust and created a deep basin that eventually filled with water to become Lake Superior. The rifting process involved intense volcanic activity, with lava flows and sediment deposits shaping the region's bedrock. Today, the evidence of this ancient rift can be seen in the lake's unique geology and the surrounding terrain.
+# Walkabout the Galaxy
+I am a co-host of the Walkabout the Galaxy podcast! A conversational podcast that covers the latest news in astronomy, physics, and planetary science. New episodes drop on Wednesdays.
 
-# Overview Video
-Watch the video below to learn more about the Midcontinent Rift, its impact on Lake Superior, and see stunning footage of the region.
+# Media Appearances 
+
+# Science in the News
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/w-f_wY1Lsx8?si=PBb-aks-N5XFrRha" frameborder="0" allowfullscreen></iframe>
