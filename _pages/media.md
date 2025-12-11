@@ -6,7 +6,7 @@ hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
   overlay_filter: "0.02"
-  overlay_image: /assets/images/IcelandBeach.JPEG
+  overlay_image: /assets/images/Sedona1.jpg
 excerpt: <br />   <br /><br />
 
 # Includes author profile in sidebar
