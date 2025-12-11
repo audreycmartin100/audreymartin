@@ -69,7 +69,7 @@ My research focuses on determining the composition and regolith properties of as
 
 ## Laboratory Spectroscopy
 
-A central theme of my research is understanding how ‘regolith porosity’ (i.e., fluffy-ness) affects spectral signaturesin the mid-infrared wavelength region. To improve the interpretation of observations of rocky objects, like asteroids, I develop detailed spectral libraries of common asteroid minerals. By comparing these spectral libraries to asteroid spectra, we discovered that many asteroids have exceedingly fluffy regoliths. With a clearer picture of how porosity shapes spectral behavior, more reliable compositional interpretations become possible. These spectral libraries are freely available via the links below. <br>
+A central theme of my research is understanding how ‘regolith porosity’ (i.e., fluffy-ness) affects spectral signaturesin the mid-infrared wavelength region. To improve the interpretation of observations of rocky objects, like asteroids, I develop detailed spectral libraries of common asteroid minerals. By comparing these spectral libraries to asteroid spectra, we discovered that many asteroids have exceedingly fluffy regoliths. With a clearer picture of how porosity shapes spectral behavior, more reliable compositional interpretations become possible. <i>These spectral libraries are freely available via the links below. </i> <br>
 
 <b>This work is ongoing!</b> I am actively developing and publishing additional spectral libraries to meet the growing need for high-quality, well-characterized analog spectra. 
 
