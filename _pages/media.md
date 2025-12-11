@@ -26,12 +26,12 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 
 # Media Appearances 
 <ul>
-	<li> The Scoop on 'Scopes. WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 </li>
-  	<li> Impending doom from asteroids and storing Earthly data on the Moon. WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </li>
-  	<li> Weather satellites in space and humans on Mars. WMFE Central Florida Public Radio, Are We There Yet? February 20, 2024 </li>
-  	<li> Are we spooked yet? A creepy tour of the cosmos on this Halloween. WMFE Central Florida Public Radio, Are We There Yet? October 31, 2023 </li>
-  	<li> We Asked a NASA Scientist - What are the Trojan Asteroids? NASA YouTube </li>
-  	<li> Launch of NASA's Lucy Mission to Jupiter's Trojan Asteroids. NASA TV </li>
+	<li> [<span style="color:White;">The Scoop on 'Scopes</span>](https://www.cfpublic.org/podcast/are-we-there-yet/2025-04-01/the-scoop-on-scopes){:target="_blank"} WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 </li>
+  	<li> [<span style="color:White;">Impending doom from asteroids and storing Earthly data on the Moon</span>](https://www.cfpublic.org/podcast/are-we-there-yet/2025-03-04/impending-doom-from-asteroids-and-storing-earthly-data-on-the-moon){:target="_blank"} WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </li>
+  	<li> [<span style="color:White;">Weather satellites in space and humans on Mars</span>](https://www.cfpublic.org/podcast/are-we-there-yet/2024-02-20/weather-satellites-space-and-humans-mars){:target="_blank"} WMFE Central Florida Public Radio, Are We There Yet? February 20, 2024 </li>
+  	<li> [<span style="color:White;">Are we spooked yet? A creepy tour of the cosmos on this Halloween</span>](https://www.cfpublic.org/podcast/are-we-there-yet/2023-10-31/are-we-spooked-yet-a-creepy-tour-of-the-cosmos-on-this-halloween){:target="_blank"} WMFE Central Florida Public Radio, Are We There Yet? October 31, 2023 </li>
+  	<li> [<span style="color:White;">We Asked a NASA Scientist - What are the Trojan Asteroids?</span>](https://www.youtube.com/watch?v=9UFpXW018JQ){:target="_blank"} NASA YouTube </li>
+  	<li> [<span style="color:White;">Launch of NASA's Lucy Mission to Jupiter's Trojan Asteroids.</span>](https://www.youtube.com/watch?v=Oq5UNqtN1a8&t=5921s){:target="_blank"} NASA TV </li>
 </ul>
 
 <div class="video-container">
@@ -41,17 +41,11 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 
 # In the News
 <ul>
-	<li> #SoCaltech: Audrey Martin. Caltech Magazine (2025)</li>
-  	<li> Arizona astronomers queue up to use the new James Webb Space Telescope. KNAU Arizona Public Radio, News and Talk. December 23, 2021 </li>
-  	<li> NAU scientists, students will utilize newly launched James Webb Space Telescope for solar system research. The NAU Review. December 25, 2021 </li>
-  	<li> First mission to Jupiter's asteroids could reveal Solar System origins. Nature. October 14, 2021 </li>
+	<li> [<span style="color:White;">#SoCaltech: Audrey Martin</span>](https://magazine.caltech.edu/post/socaltech-audrey-martin){:target="_blank"} Caltech Magazine (2025)</li>
+  	<li> [<span style="color:White;">Arizona astronomers queue up to use the new James Webb Space Telescope</span>](https://www.knau.org/knau-and-arizona-news/2021-12-23/arizona-astronomers-queue-up-to-use-the-new-james-webb-space-telescope){:target="_blank"} KNAU Arizona Public Radio, News and Talk. December 23, 2021 </li>
+  	<li> [<span style="color:White;">NAU scientists, students will utilize newly launched James Webb Space Telescope for solar system research</span>](https://news.nau.edu/james-webb-telescope/){:target="_blank"} The NAU Review. December 25, 2021 </li>
+  	<li> [<span style="color:White;">First mission to Jupiter's asteroids could reveal Solar System origins</span>](https://www.nature.com/articles/d41586-021-02807-w){:target="_blank"} Nature. October 14, 2021 </li>
 </ul>
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/w-f_wY1Lsx8?si=PBb-aks-N5XFrRha" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-[<span style="color:White;">WhereIsLucy.Space</span>](https://whereislucy.space){:target="_blank"}
 
 
