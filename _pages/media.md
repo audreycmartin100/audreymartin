@@ -26,7 +26,7 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 
 # Media Appearances
 <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-04-01/the-scoop-on-scopes" target="_blank"> <b style="color:White;font-size:20px"> The Scoop on 'Scopes </b></a> <br>
-<small>WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 </small><br><br>
+<small>WMFE Central Florida Public Radio, Are We There Yet? April 1, 2025 <br><br></small>
 <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2025-03-04/impending-doom-from-asteroids-and-storing-earthly-data-on-the-moon" target="_blank"> <b style="color:White;font-size:20px"> Impending doom from asteroids and storing Earthly data on the Moon</b></a> <br><small>WMFE Central Florida Public Radio, Are We There Yet? March 4, 2025 </small><br><br>
 <a href="https://www.cfpublic.org/podcast/are-we-there-yet/2024-02-20/weather-satellites-space-and-humans-mars" target="_blank"> <b style="color:White;font-size:20px"> Weather satellites in space and humans on Mars</b></a> <br>
 <small>WMFE Central Florida Public Radio, Are We There Yet? February 20, 2024 </small><br><br>
