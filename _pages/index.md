@@ -34,10 +34,10 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Zion.jpg
-    alt: "Outreach"
+    alt: "Media"
     #image_size: 500px
     title: "Media"
-    #url: "/media/"
+    url: "/media/"
     btn_label: "Learn More"
     btn_class: "btn--inverse"      
 ---
