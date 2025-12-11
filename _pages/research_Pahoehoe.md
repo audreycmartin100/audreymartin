@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Pahoehoe Great Lake"
-permalink: /research/pahoehoe
+title: "Media"
+permalink: /media/
 hidden: true
 header:
   overlay_color: "#222222"
@@ -9,6 +9,7 @@ header:
   overlay_image: assets/images/pahoehoe.png
   caption: Pahoehoe in North shore 
 excerpt: How do these pahoehoe formation appear on these river terrace in North Shore MN?
+
 # Includes author profile in sidebar
 author: First M. Last
 author_profile: true
