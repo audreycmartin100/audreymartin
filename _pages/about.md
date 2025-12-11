@@ -22,7 +22,7 @@ feature_row:
   excerpt: "Analog research with experimental rover in Yellowcat, UT."
 - image_path: /assets/images/MeteorCrater2.JPG
   excerpt: "Canyon Diablo meteorite, Meteor Crater, AZ."
-- image_path: /assets/images/NASALive.png
+- image_path: /assets/images/nasalivezoom.png
   excerpt: "Post Lucy spacecraft launch NASA TV interview, Cocoa Beach, FL."
   image_size: 10000px
 ---
