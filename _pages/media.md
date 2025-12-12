@@ -44,7 +44,7 @@ Find us on [<span style="color:White;">Spotify</span>](https://open.spotify.com/
 
 # In the News
 <a href="https://magazine.caltech.edu/post/socaltech-audrey-martin" target="_blank"> <b style="color:White;font-size:20px"> #SoCaltech: Audrey Martin</b></a> <br>
-<small>Caltech Magazine (2025)</small><br><br>
+<small>Caltech Magazine. December 2, 2025</small><br><br>
 <a href="https://www.knau.org/knau-and-arizona-news/2021-12-23/arizona-astronomers-queue-up-to-use-the-new-james-webb-space-telescope" target="_blank"> <b style="color:White;font-size:20px"> Arizona astronomers queue up to use the new James Webb Space Telescope</b></a> <br>
 <small>KNAU Arizona Public Radio, News and Talk. December 23, 2021 </small><br><br>
 <a href="https://news.nau.edu/james-webb-telescope/" target="_blank"> <b style="color:White;font-size:20px"> NAU scientists, students will utilize newly launched James Webb Space Telescope for solar system research</b></a> <br>
